@@ -1,7 +1,9 @@
 # local-temperature-server
 
 ## 1. 기능
-- 특정 지역의 현재 기온 데이터를 파싱해서 txt 파일로 저장
+- 웹서비스 URL 파라미터 생성 및 호출 (특정 지역, 현재 시간)
+- 결과 파싱해서 txt 파일로 저장 (기온 데이터)
+- 클라이언트 프로그램 : local-temperature-client
 
 ## 2. 웹서비스 예시
 
