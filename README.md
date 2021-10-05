@@ -10,11 +10,11 @@
 
 ## 2. 웹서비스 호출 예시
 
-* URL
+* <b>URL</b>
 
     http://apis.data.go.kr/1360000/VilageFcstInfoService/getUltraSrtNcst?serviceKey=인증키&nx=60&ny=127&base_date=20210930&base_time=1500
 
-* Result (XML)
+* <b>Result (XML)</b>
 
     ```
     <response>
